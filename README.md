@@ -1,5 +1,5 @@
 # spring-boot-crudapp
-This is the spring boot project developed by Rakesh Singu
+This is the spring boot project developed by Rakesh Singu.
 Developed a CRUD application using Spring Boot for student data management.
 Implemented microservices architecture using Feign clients to enable communication between different services.
 Added basic security features to both the main project and microservice to ensure data privacy and confidentiality.
